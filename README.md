@@ -7,8 +7,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/icaoberg/python-stack.svg)](https://github.com/icaoberg/python-stack/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org/licenses/quick-guide-gplv3.en.html)
 
-![Stack](https://upload.wikimedia.org/wikipedia/commons/b/b4/Lifo_stack.png)
-
 This repo contains a very simple naive implementation of a [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)).
 
 The purpose of this repo is to serve as an example on how to create a `.travis.yml` for [Travis CI](https://travis-ci.org/).
+
+## Disclaimer
+This implementation is based on a homework I did for Carnegie Mellon's 15213 Advanced Data Structures and Algorithms in Java many years ago.
