@@ -1,4 +1,5 @@
 # python-stack
+![coverage.io](https://codecov.io/gh/icaoberg/python-stack/branch/master/graph/badge.svg)
 [![Build Status](https://travis-ci.org/icaoberg/python-stack.svg?branch=master)](https://travis-ci.org/icaoberg/python-stack)
 [![Release Status](https://img.shields.io/badge/release-v0.1-red.svg)](https://github.com/icaoberg/python-stack)
 [![GitHub issues](https://img.shields.io/github/issues/icaoberg/python-stack.svg)](https://github.com/icaoberg/python-stack/issues)
